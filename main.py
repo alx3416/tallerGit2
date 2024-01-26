@@ -2,4 +2,11 @@ import math
 
 print("hello world")
 
-asjydgajsdgcjsdhzmgbxc
+
+
+
+
+#Funcion Jesus Rodrigo
+def HelloWorld(str):
+    print(str)
+HelloWorld("Hola mundo")
